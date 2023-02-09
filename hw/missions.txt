@@ -1,0 +1,11 @@
+1. צרו לעצמכם ROUTES שנקרא FOODS
+ובROUTER הראשי שלו 
+"/foods/" הציגו את כל ה JSON
+
+2. צרו ROUTE של foods/single/:index ששולף את המאכל הספציפי לפי האינדקס שאספתם מהפארמס
+
+3. צרו ROUTE של foods/search?s=something  שיודע לאסוף QUERY סטרינג של S
+ויחזיר לכם מוצרים שהביטוי שנמצא במשתנה קווארי של ה S קיים בNAME של המוצר
+
+
+4. בונוס: תוסיפו ROUTE של CATEGORY
